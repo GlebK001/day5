@@ -1,11 +1,11 @@
 
 def fir ():
-    print("   /\   ")
-    print("  /||\  ")
-    print(" /||||\ ")
-    print("/||||||\")
+    print("   /\\   ")
+    print("  /||\\  ")
+    print(" /||||\\ ")
+    print("/||||||\\")
     print("   ||   ")
 
 
 def main ():
-    pass
+    fir ()
