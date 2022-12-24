@@ -1,5 +1,5 @@
 
-def fir ():
+def fir (num):
     print("   /\    "*num)
     print("  /||\   "*num)
     print(" /||||\  "*num)
@@ -8,4 +8,8 @@ def fir ():
 
 
 def main ():
-    fir ()
+    fir (5)
+
+
+if __name__ == "__main__":
+    main()
